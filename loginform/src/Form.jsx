@@ -19,7 +19,7 @@ const Form = () => {
       <label>Password:<br></br>
         <input type='password' required></input><br></br>
     </label>
-    <button>Submit</button>
+    <button>Login</button>
    </form>
 
    </>
