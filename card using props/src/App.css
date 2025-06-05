@@ -1,0 +1,23 @@
+#root {
+  padding: 2rem;
+  display: flex;
+
+}
+
+section{
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(171, 240, 240);
+  border-radius: 20px;
+}
+
+img{
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+div{
+  display:flex;
+}
